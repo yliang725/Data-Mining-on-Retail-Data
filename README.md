@@ -1,6 +1,6 @@
 # Data-Mining-on-Retail-Data
 
-This program is to analyze the Online Retail dataset from UCI Machine Learning Repository (http://archive.ics.uci.edu/ml/datasets/Online+Retail).  
+This program is to analyze the Online Retail dataset from the UCI Machine Learning Repository (http://archive.ics.uci.edu/ml/datasets/Online+Retail).  
 
 The program sorted the dataset by the RFM score, which indicates the importance value of each individual customers. 
 
